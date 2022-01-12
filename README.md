@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Brose-Austin
-This is a page meant for software management for Brose & RAI.
+- 👋 Hi, I’m Austin W!
+This account is meant for software management and version control 
