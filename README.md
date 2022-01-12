@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Brose-Austin
-This is a page meant for software management for Brose & RAI.
+- 👋 Hi, I’m Austin W!
+This is the main private folder that will be used for software management.
